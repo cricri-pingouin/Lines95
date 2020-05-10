@@ -3,6 +3,13 @@ Line up 5 balls (or more) to remove them, and try achieving the highest score be
 
 Original source: https://torry.net/pages.php?id=352#1805
 
+Angus Johnson released a much more polished version here, including high scores, sounds on/off and 3 sets of improved graphics:
+http://www.angusj.com/lines95/
+However, he didn't release the source code, hence why I try to fill this gap with this repository. If you want to disable/enable sound, just create a menu item with this code:
+  JumpSnd := not JumpSnd;
+  RemoveBallSnd := not RemoveBallSnd;
+  BadMoveSnd := not BadMoveSnd;
+
 -----------------
 Legal Information
 -----------------
