@@ -3,7 +3,7 @@ unit Common;
 interface
 
 uses
-  Windows, MMSystem;
+  MMSystem;
 
 const
   wnTICK = 'SOUND1';
