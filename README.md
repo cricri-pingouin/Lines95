@@ -1,5 +1,7 @@
 # Lines95
-Line up 5 balls (or more) to remove them, and try achieving the highest score before you cannot move. The original source code for this game was created by Anatoly Podgoretsky. Since he shared it "as is with no liability" (see original licence below), I share it here under a MIT license. I stripped down the source code to purely the game part. Compiles in Turbo Delphi.
+Line up 5 balls (or more) to remove them, and try achieving the highest score before you cannot move.
+
+The original source code for this game was created by Anatoly Podgoretsky. Since he shared it "as is with no liability" (see original licence at the bottom of this README), I share it here under a MIT license. I stripped down the source code to purely the game part. Compiles in Turbo Delphi.
 
 Original source:
 
@@ -9,7 +11,9 @@ Angus Johnson released a much more polished version here, including high scores,
 
 http://www.angusj.com/lines95/
 
-However, he didn't release the source code, hence why I try to fill this gap with this repository. If you want to disable/enable sound, just create a menu item with this code:
+However, he didn't release the source code, hence why I try to fill this gap with this repository.
+
+If you want to disable/enable sound, just create a menu item with this code:
 
 ```
 JumpSnd := not JumpSnd;
