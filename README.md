@@ -10,13 +10,12 @@ Angus Johnson released a much more polished version here, including high scores,
 http://www.angusj.com/lines95/
 
 However, he didn't release the source code, hence why I try to fill this gap with this repository. If you want to disable/enable sound, just create a menu item with this code:
- 
+
+```
 JumpSnd := not JumpSnd;
-
 RemoveBallSnd := not RemoveBallSnd;
-
 BadMoveSnd := not BadMoveSnd;
-
+```
 -----------------
 Legal Information
 -----------------
