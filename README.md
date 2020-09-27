@@ -1,7 +1,9 @@
 # Lines95
 Line up 5 balls (or more) to remove them, and try achieving the highest score before you cannot move. The original source code for this game was created by Anatoly Podgoretsky. Since he shared it "as is with no liability" (see original licence below), I share it here under a MIT license. I stripped down the source code to purely the game part. Compiles in Turbo Delphi.
 
-Original source: https://torry.net/pages.php?id=352#1805
+Original source:
+
+https://torry.net/pages.php?id=352#1805
 
 Angus Johnson released a much more polished version here, including high scores, sounds on/off and 3 sets of improved graphics:
 
